@@ -1,0 +1,5 @@
+//St Pats 1
+{"on":true,"bri":255,"transition":7,"mainseg":0,"seg":[{"id":0,"start":0,"stop":853,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[0,163,11],[255,200,0],[5,156,0]],"fx":115,"sx":128,"ix":128,"pal":5,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":true,"o1":false,"o2":false,"o3":false,"si":0,"m12":1},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0}]}
+
+//St Pats 2 (2024)
+{"on":true,"bri":133,"transition":7,"mainseg":0,"seg":[{"id":0,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"col":[[2,85,0],[255,200,0],[4,128,0]],"fx":115,"sx":171,"ix":87,"pal":5,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":1}]}
